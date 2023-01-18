@@ -1,0 +1,14 @@
+{
+  "name": "calendars",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx elm-test"
+  },
+  "author": "Bruno Dias",
+  "license": "Mit",
+  "dependencies": {
+    "elm-test": "^0.19.1-revision11"
+  }
+}
